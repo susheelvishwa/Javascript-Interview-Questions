@@ -1,8 +1,8 @@
 // Global Scope
 
 let globalVariable = "global";
-
 greet();
+
 function greet() {
     let functionVariable = "function";
     if (true) {
