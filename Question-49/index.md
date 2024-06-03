@@ -1,0 +1,1 @@
+# How to add and remove properties of HTML elements in the DOM using JS?
